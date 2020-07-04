@@ -13,7 +13,7 @@ If the character at index i in longer is the same as the character at index j in
 After iteration, if j==length of shorter means is subsequence in longer string, return true else return false. 
 Run This Code
 
-Complete Code:*/
+Complete Code:/*
 
 public class CheckIfOneStringIsSubsequenceOfAnother {
 
